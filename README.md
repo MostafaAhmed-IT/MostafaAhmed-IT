@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12072e,55:3b0764,100:6d28d9&height=200&section=header&text=Mostafa%20Ahmed%20Boraie&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Network%20Engineer&descSize=26&descAlignY=65" alt="Mostafa Ahmed Boraie — Network Engineer" width="100%">
+    <img src="banner.svg" alt="Mostafa Ahmed Boraie — Network Engineer" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Mostafa Ahmed Boraie</h1>
