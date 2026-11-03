@@ -85,7 +85,7 @@ A complete two-branch company network designed and configured in Cisco Packet Tr
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MostafaAhmed-IT&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" height="165">
   <img src="https://streak-stats.demolab.com?user=MostafaAhmed-IT&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
 </p>
 
