@@ -1,12 +1,15 @@
 <p align="center">
-  <img src="banner.png" alt="Mostafa Ahmed Boraie — Junior Network Engineer" width="100%">
-</p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12072e,55:3b0764,100:6d28d9&height=200&section=header&text=Mostafa%20Ahmed%20Boraie&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Network%20Engineer&descSize=26&descAlignY=65" alt="Mostafa Ahmed Boraie — Network Engineer" width="100%">
+</p>p>
 
 <h1 align="center">Hi, I'm Mostafa Ahmed Boraie</h1>
 
 <p align="center">
   <b>Junior Network Engineer</b> — Cisco Networking, Routing &amp; Switching, Troubleshooting
 </p>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=640&lines=Cisco+Networking;Routing+%26+Switching;Network+Troubleshooting;Currently+learning+CCNP+Security" alt="Typing animation">
+</p>p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MostafaAhmed-IT&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
