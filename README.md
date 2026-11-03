@@ -1,9 +1,9 @@
 # Hi, I'm Mostafa Ahmed Boraie
 
-Junior Network Engineer & IT Support Specialist based in 6th of October City, Egypt.
+Junior Network Engineer based in 6th of October City, Egypt.
 
 ## About me
-- 2+ years of hands-on IT support and network lab experience at SCAL Academy — Cisco routers, switches, IP phones and PoE
+- 2+ years of hands-on experience in network labs and technical support at SCAL Academy — Cisco routers, switches, IP phones and PoE
 - Bachelor of Commerce, Cairo University (graduated 2026)
 - Completed Cisco Networking Academy courses at SCAL Academy: CCNAv7 (Introduction to Networks; Switching, Routing and Wireless Essentials; Enterprise Networking, Security and Automation) and CCNP Enterprise: Core Networking — course completions, not vendor certifications
 - Currently learning Python, and refreshing CCNP topics with GNS3 labs
@@ -11,7 +11,7 @@ Junior Network Engineer & IT Support Specialist based in 6th of October City, Eg
 
 ## Skills
 - Cisco Routing & Switching, TCP/IP, VLANs, STP, EtherChannel, OSPF, NAT, DHCP, ACLs, Port Security, Subnetting
-- Network Troubleshooting & IT Support
+- Network Troubleshooting
 - Tools: Cisco Packet Tracer, GNS3, VMware, PuTTY, draw.io
 
 ## Projects
