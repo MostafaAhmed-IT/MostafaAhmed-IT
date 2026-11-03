@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Mostafa Ahmed Boraie</h1>
 
 <p align="center">
-  <b>Junior Network Engineer</b> — Cisco Networking, Routing &amp; Switching, Troubleshooting
+  <b>Junior Network Engineer | Network Administrator</b> — Cisco Networking, Routing &amp; Switching, Troubleshooting
 </p>
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=640&lines=Cisco+Networking;Routing+%26+Switching;Network+Troubleshooting;Currently+learning+CCNP+Security" alt="Typing animation">
@@ -17,12 +17,12 @@
 
 ## About Me
 
-- 🌐 Network Engineer focused on Cisco routing & switching and network troubleshooting
+- 🌐 Network Engineer | Network Administrator focused on Cisco routing & switching and network troubleshooting
 - 💼 2+ years of hands-on experience in network labs and technical support at **SCAL Academy** — Cisco routers, switches, IP phones and PoE
 - 🎓 Bachelor of Commerce, Cairo University (graduated 2026)
 - 🔐 Currently learning **CCNP Security**
 - 💬 Ask me about **VLANs, STP, EtherChannel, OSPF, NAT, DHCP, ACLs and Subnetting**
-- 🎯 Open to **Junior Network Engineer** opportunities
+- 🎯 Open to **Junior Network Engineer / Network Administrator** opportunities
 - 📫 Reach me at **Mostafaaboraie@gmail.com**
 - 📍 6th of October City, Egypt
 
