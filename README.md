@@ -6,7 +6,7 @@ Junior Network Engineer based in 6th of October City, Egypt.
 - 2+ years of hands-on experience in network labs and technical support at SCAL Academy — Cisco routers, switches, IP phones and PoE
 - Bachelor of Commerce, Cairo University (graduated 2026)
 - Completed Cisco Networking Academy courses at SCAL Academy: CCNAv7 (Introduction to Networks; Switching, Routing and Wireless Essentials; Enterprise Networking, Security and Automation) and CCNP Enterprise: Core Networking — course completions, not vendor certifications
-- Currently learning Python, and refreshing CCNP topics with GNS3 labs
+- Currently learning CCNP Security
 - Career direction: Network Engineering, then Cybersecurity
 
 ## Skills
