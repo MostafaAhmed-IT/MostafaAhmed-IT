@@ -66,6 +66,9 @@
 
 *Cisco Networking Academy course completions at SCAL Academy — course completions, not vendor certifications.*
 
+<p align="center">
+  <a href="https://github.com/MostafaAhmed-IT/packet-tracer-multi-branch-network"><img src="announcement.svg" alt="Featured Project — Multi-Branch Network Design" width="100%"></a>
+</p>
 ## Featured Project
 
 ### [Multi-Branch Network Design — Cisco Packet Tracer](https://github.com/MostafaAhmed-IT/packet-tracer-multi-branch-network)
