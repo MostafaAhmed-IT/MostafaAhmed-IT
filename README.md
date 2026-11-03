@@ -90,3 +90,6 @@ A complete two-branch company network designed and configured in Cisco Packet Tr
   <a href="https://www.linkedin.com/in/mostafaa-it88"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:Mostafaaboraie@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
+<p align="center">
+  <img src="footer.svg" alt="Thanks for visiting" width="100%">
+</p>
