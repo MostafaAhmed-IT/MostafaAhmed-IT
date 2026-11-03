@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/MCSA%202016-Course%20(SCAL%20Academy)-0E5A4D?style=for-the-badge" alt="MCSA 2016 Course">
 </p>
 
-*Cisco Networking Academy course completions at SCAL Academy — course completions, not vendor certifications.*
+*Cisco Networking Academy course completions at SCAL Academy.*
 
 <p align="center">
   <a href="https://github.com/MostafaAhmed-IT/packet-tracer-multi-branch-network"><img src="announcement.svg" alt="Featured Project — Multi-Branch Network Design" width="100%"></a>
