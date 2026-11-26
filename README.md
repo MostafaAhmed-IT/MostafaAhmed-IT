@@ -66,22 +66,6 @@
 
 *Cisco Networking Academy course completions at SCAL Academy.*
 
-<p align="center">
-  <a href="https://github.com/MostafaAhmed-IT/packet-tracer-multi-branch-network"><img src="announcement.svg" alt="Featured Project — Multi-Branch Network Design" width="100%"></a>
-
-</p>
-
-## Featured Project
-
-### [Multi-Branch Network Design — Cisco Packet Tracer](https://github.com/MostafaAhmed-IT/packet-tracer-multi-branch-network)
-
-A complete two-branch company network designed and configured in Cisco Packet Tracer:
-
-- Two branch sites, each with 4 switches and around 16 end devices
-- Per-department VLANs: IT, Office, HR and Management
-- Spanning Tree with planned root placement, sticky-MAC Port Security
-- Per-VLAN DHCP, NAT (PAT) and inter-department ACLs
-
 ## GitHub Stats
 
 <p align="center">
